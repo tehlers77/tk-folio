@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.js": "/tk-folio/static/js/main.2e124642.js",
+    "main.css": "/tk-folio/static/css/main.1585673d.css",
+    "main.js": "/tk-folio/static/js/main.8dc09459.js",
+    "static/media/helvetica-neu.ttf": "/tk-folio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/tk-folio/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/tk-folio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/tk-folio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/tk-folio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/tk-folio/index.html",
-    "main.2e124642.js.map": "/tk-folio/static/js/main.2e124642.js.map"
+    "main.1585673d.css.map": "/tk-folio/static/css/main.1585673d.css.map",
+    "main.8dc09459.js.map": "/tk-folio/static/js/main.8dc09459.js.map"
   },
   "entrypoints": [
-    "static/js/main.2e124642.js"
+    "static/css/main.1585673d.css",
+    "static/js/main.8dc09459.js"
   ]
 }
